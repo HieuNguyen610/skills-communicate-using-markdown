@@ -13,3 +13,8 @@ Javascript code
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
+Create a task list
+- [x] Create a git repository
+- [x] Learn markdown
+- [ ] Like cat photo
